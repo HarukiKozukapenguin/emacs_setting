@@ -1,0 +1,2 @@
+;; Generated package description from ebdb.el  -*- no-byte-compile: t -*-
+(define-package "ebdb" "0.8.22" "Contact management package" '((emacs "25.1") (seq "2.15")) :commit "b96e5470c54503eab2159e69c822648ad55e6915" :authors '(("Eric Abrahamsen" . "eric@ericabrahamsen.net")) :maintainer '("Eric Abrahamsen" . "eric@ericabrahamsen.net") :keywords '("convenience" "mail") :url "https://github.com/girzel/ebdb")
